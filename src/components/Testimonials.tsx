@@ -3,22 +3,22 @@ import { Star, Quote } from 'lucide-react';
 
 const testimonials = [
   {
-    name: 'Sarah Johnson',
-    role: 'Founder, TechStart',
+    name: 'Rajesh Sharma',
+    role: 'Founder, Mumbai FinTech',
     content: 'Deomic Technologies transformed our vision into a reality. Their team is professional, responsive, and delivered a high-quality product within our budget.',
-    image: 'https://i.pravatar.cc/150?u=sarah',
+    image: 'https://i.pravatar.cc/150?u=rajesh',
   },
   {
-    name: 'Michael Chen',
-    role: 'CTO, GlobalLogistics',
+    name: 'Priya Patel',
+    role: 'CTO, Bangalore Logistics',
     content: 'The fleet management system they built for us has significantly improved our efficiency. Their technical expertise is truly impressive.',
-    image: 'https://i.pravatar.cc/150?u=michael',
+    image: 'https://i.pravatar.cc/150?u=priya',
   },
   {
-    name: 'Emily Davis',
-    role: 'Marketing Director, EcoFriendly',
+    name: 'Amit Verma',
+    role: 'Marketing Director, Delhi E-commerce',
     content: 'Working with Deomic was a breeze. They understood our requirements perfectly and provided innovative solutions we hadn\'t even considered.',
-    image: 'https://i.pravatar.cc/150?u=emily',
+    image: 'https://i.pravatar.cc/150?u=amit',
   },
 ];
 

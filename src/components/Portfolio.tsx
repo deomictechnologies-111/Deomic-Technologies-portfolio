@@ -7,31 +7,19 @@ const projects = [
     title: 'Fleet Management System',
     description: 'Real-time tracking and logistics optimization platform for transport companies.',
     tech: ['React', 'Node.js', 'PostgreSQL', 'Google Maps API'],
-    image: 'https://picsum.photos/seed/fleet/600/400',
+    image: 'fleet-management',
   },
   {
     title: 'E-commerce Platform',
     description: 'A scalable multi-vendor marketplace with integrated payment gateways.',
     tech: ['Next.js', 'Tailwind CSS', 'Stripe', 'MongoDB'],
-    image: 'https://picsum.photos/seed/shop/600/400',
+    image: 'ecommerce-platform',
   },
   {
-    title: 'NGO Donation Website',
-    description: 'Transparent donation tracking and campaign management for global NGOs.',
-    tech: ['Vue.js', 'Firebase', 'Cloud Functions'],
-    image: 'https://picsum.photos/seed/ngo/600/400',
-  },
-  {
-    title: 'CRM Dashboard',
-    description: 'Advanced customer relationship management tool with automated reporting.',
-    tech: ['React', 'D3.js', 'Express', 'Redis'],
-    image: 'https://picsum.photos/seed/crm/600/400',
-  },
-  {
-    title: 'SaaS Booking Platform',
-    description: 'Appointment scheduling and resource management for service providers.',
-    tech: ['TypeScript', 'GraphQL', 'AWS Lambda'],
-    image: 'https://picsum.photos/seed/booking/600/400',
+    title: 'NGO CRM Dashboards',
+    description: 'Comprehensive donor management and campaign tracking for non-profit organizations.',
+    tech: ['React', 'D3.js', 'Firebase', 'Cloud Functions'],
+    image: 'ngo-crm-dashboard',
   },
 ];
 
